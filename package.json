@@ -1,0 +1,17 @@
+{
+  "name": "find-in-directory",
+  "main": "./lib/find-in-directory",
+  "version": "1.0.0",
+  "description": "Open the 'Project find' pane using the current directory",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "find-in-directory:show"
+  },
+  "repository": "https://github.com/ondras/atom-find-in-directory",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

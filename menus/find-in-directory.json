@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Find in this directory",
+        "command": "find-in-directory:show"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Find in directory",
+          "submenu": [
+            {
+              "label": "Show",
+              "command": "find-in-directory:show"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
