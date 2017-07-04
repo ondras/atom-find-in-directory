@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-shift-f": "find-in-directory:show"
+    "ctrl-shift-f": "find-in-directory:show",
+    "cmd-shift-f": "find-in-directory:show"
   }
 }
